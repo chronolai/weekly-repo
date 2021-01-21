@@ -1,0 +1,25 @@
+{
+  "name": "weekly-repo",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weekly",
+    "git",
+    "repo",
+    "md",
+    "json"
+  ],
+  "author": "ChronoLai",
+  "license": "ISC",
+  "bin": {
+    "wr": "index.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.3",
+    "walkdir": "^0.4.1",
+    "yargs": "^16.2.0"
+  }
+}
